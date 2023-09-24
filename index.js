@@ -24,7 +24,7 @@ async function run() {
   try {
     const database = client.db("traffic-project");
     const car = database.collection("car-information");
-    app.get("/database", async (req, res) => {
+    app.get("/", async (req, res) => {
       const query = {};
       const cursor = car.find(query);
       const information = await cursor.toArray();
