@@ -1,0 +1,77 @@
+[
+  {
+    "id": 7898,
+    "type": "ব্যাক্তি মালিকানা",
+    "status": "Normal",
+    "carName": "Toyota Fortuner",
+    "owner": {
+      "nameEnglish": "MD.MUJAHID AL -FUAD",
+      "nameBangla": "মোঃ মুজাহিদ আল - ফুয়াদ",
+      "profession": "Student",
+      "address": "Manikganj",
+      "nid": "xxxxxxxxxx",
+      "img": "https://i.ibb.co/LPRpyhr/IMG-20211118-203627.jpg",
+      "mobile": "01876581210"
+    },
+    "kerbWeight": 2080,
+    "color": "white",
+    "action": "Can go No problem ",
+    "gate": "Gate open",
+    "img": "https://ibb.co/x1W5L0x",
+    "roadPermit": {
+      "date": 24,
+      "month": 7,
+      "year": 2024
+    }
+  },
+  {
+    "id": 5857,
+    "type": "ব্যাক্তি মালিকানা",
+    "status": "Somthing elase",
+    "carName": "Toyota Premio",
+    "owner": {
+      "nameEnglish": "SARNIN AKTER SRITY",
+      "nameBangla": "শারমিন আক্তার স্মৃতি",
+      "profession": "Student",
+      "address": "Manikganj",
+      "nid": "xxxxxxxxxx",
+      "img": "https://ibb.co/0MGDrPZ"
+    },
+    "kerbWeight": 2080,
+    "color": "white",
+    "action": "Can  Not  ",
+    "gate": "Gate open",
+    "img": "https://ibb.co/x1W5L0x",
+    "roadPermit": {
+      "date": 18,
+      "month": 5,
+      "year": 2024,
+      "mobile": "0185029912"
+    }
+  },
+  {
+    "id": 5578,
+    "type": "রাস্ট্রীয় মালিকানাধীন",
+    "status": "Normal",
+    "carName": "Toyota Prado ",
+    "owner": {
+      "nameEnglish": "SUKLA SHARKAR",
+      "nameBangla": "শুক্লা সরকার",
+      "profession": "Officials of the Government of the People's Republic of Bangladesh",
+      "address": "Manikganj",
+      "nid": "xxxxxxxxxx",
+      "img": "https://i.ibb.co/tXz7bLN/64f11ed685545777168660.jpg"
+    },
+    "kerbWeight": 2080,
+    "color": "white",
+    "action": "Can  Not  ",
+    "gate": "Gate open",
+    "img": "https://ibb.co/x1W5L0x",
+    "roadPermit": {
+      "date": 18,
+      "month": 5,
+      "year": 2024,
+      "mobile": "0185029912"
+    }
+  }
+]
